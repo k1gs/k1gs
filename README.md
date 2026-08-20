@@ -1,16 +1,139 @@
-# 💫 About Me:
-🔭 I’m currently working on reverse engineering a free camera mod for Homefront, and diving deep into cryptography and server infrastructure! ~<br><br>🤝 I’m looking for help with hardware electronics repair (I'm still a complete beginner in this sphere, so any advice is super helpful!).<br><br>🌱 I’m currently learning system administration, reverse engineering, Rust, and C++.
+<div align="center">
 
+# Hi, I'm Denis — `k1gs`
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=k1gs&theme=nord&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=k1gs&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=k1gs&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+**Low-level software · Hardware · Reverse Engineering · Security**
 
+I like figuring out how things work below the surface —  
+from GPU telemetry and native Windows tooling to game internals, embedded devices and console modding.
+
+[![Website](https://img.shields.io/badge/keggs.ru-111111?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://keggs.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=flat-square&logo=telegram&logoColor=white)](https://t.me/k1gsss)
+[![GitHub](https://img.shields.io/badge/GitHub-k1gs-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/k1gs)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=k1gs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About me
+
+I'm mostly interested in things that sit somewhere between **software and hardware**.
+
+I enjoy:
+
+- low-level and systems programming
+- reverse engineering
+- hardware monitoring and diagnostics
+- Windows & Linux internals
+- embedded devices and game consoles
+- security and Zero Trust
+- game modding and runtime instrumentation
+- building small tools that solve very specific problems
+
+A lot of my projects start with:
+
+> *“I wonder how this actually works…”*
+
+…and eventually turn into code.
+
+---
+
+### Featured projects
+
+#### 🦈 [GPU Shark](https://github.com/k1gs/Gpu-Shark)
+
+Compact native Windows GPU/CPU telemetry monitor.
+
+Tracks GPU Core, HotSpot, VRAM temperatures, fan speed, VRAM usage, CPU temperature and the live **HotSpot → Core delta**.
+
+Focused on conservative sensor validation rather than displaying questionable telemetry.
+
+`Windows` `GPU` `Hardware` `Rust` `Native`
+
+---
+
+#### 🎥 [Homefront Free Camera](https://github.com/k1gs/Homefront-Free-Camera)
+
+Free-camera mod for **Homefront (2011)** built while exploring the game's internals.
+
+Uses native function hooking and a small DLL injector to detach the camera from the player.
+
+`C++` `x86` `Reverse Engineering` `DLL Injection` `Hooking` `UE3`
+
+---
+
+#### 🔐 [secure-skill](https://github.com/k1gs/secure-skill)
+
+A Zero Trust oriented security skill for safer AI-assisted development with ChatGPT and Codex.
+
+`Security` `Zero Trust` `Codex` `MCP` `Supply Chain Security`
+
+---
+
+#### 🎮 [5IFIR](https://github.com/k1gs/5ifir)
+
+A semi-stock Nintendo Switch overclocking bundle based around the 4IFIR ecosystem with support for newer Horizon OS versions.
+
+`Nintendo Switch` `Horizon OS` `Overclocking` `Modding`
+
+---
+
+#### 🔧 [kipreader](https://github.com/k1gs/kipreader)
+
+Tool for inspecting and modifying `.kip` parameters used in Nintendo Switch / 4IFIR configurations.
+
+`Python` `Nintendo Switch` `KIP` `Tooling`
+
+---
+
+#### 📚 [NX-Wiki](https://github.com/k1gs/NX-Wiki)
+
+A collection of guides and technical information about custom firmware and Nintendo Switch modding.
+
+`Nintendo Switch` `CFW` `Documentation`
+
+---
+
+### Languages & tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,python,ts,js,linux,windows,git,github,cmake&perline=11" />
+
+</p>
+
+```text
+Systems       Rust · C · C++ · Python
+Application   TypeScript · JavaScript
+Platforms     Linux · Windows · Nintendo Switch
+Interests     Hardware · RE · Security · Embedded · Modding
+Tools         Git · CMake · Visual Studio · Ghidra
+```
+
+---
+
+### What I'm currently exploring
+
+```text
+GPU / hardware telemetry
+Native Windows applications
+Reverse engineering
+AI-assisted development security
+Embedded and console internals
+Self-hosted infrastructure
+```
+
+---
+
+<div align="center">
+
+### GitHub
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=k1gs&show_icons=true&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1gs&layout=compact&hide_border=true&theme=transparent" />
+
+<br><br>
+
+**Break things. Understand them. Build better tools.**
+
+</div>
